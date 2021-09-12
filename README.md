@@ -21,3 +21,7 @@ Firstly download the file from GitHub then import the file into android studio t
 # Unit Testing Screenshot
 ![alt text](https://github.com/Petunia20/NY_Times_With_Android/blob/56a8778b86387840a7af35d0567dfd3d6a262c6a/NY%20Times%20With%20Android/screenshots/UnitTestScreenshot.png?raw=true)
 
+
+
+# Debug Testing Screenshot
+![alt text](https://github.com/Petunia20/NY_Times_With_Android/blob/56a8778b86387840a7af35d0567dfd3d6a262c6a/NY%20Times%20With%20Android/screenshots/CoverageReportScreenshot.png?raw=true)
