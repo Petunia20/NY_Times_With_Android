@@ -15,4 +15,4 @@ Firstly download the file from GitHub then import the file into android studio t
 
 UI Testing Screenshot
 
-[[https://github.com/Petunia20/NY_Times_With_Android/blob/main/NY%20Times%20With%20Android/screenshots/UITestScreenshot.png|alt=octocat]]
+[[NY Times With Android/screenshots/UITestScreenshot.png|alt=octocat]]
